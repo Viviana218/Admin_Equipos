@@ -1,0 +1,9 @@
+.borderContainer {
+    border: 2px solid gray;
+}
+
+.spacedRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
